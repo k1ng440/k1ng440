@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **algorithm**
 
-- 👯 I’m looking to collaborate on **go open source projects**
+- 👯 I’m looking to collaborate on **open source Go projects**
 
 - 🤝 I’m looking for help with **algorithm**
 
