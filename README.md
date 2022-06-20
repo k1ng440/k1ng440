@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ng440&label=Profile%20views&color=0e75b6&style=flat" alt="k1ng440" /> </p>
 
-- 🌱 I’m currently learning **algorithm**
+- 🌱 I’m currently learning **algorithms**
 
 - 👯 I’m looking to collaborate on **open source Go projects**
 
-- 🤝 I’m looking for help with **algorithm**
+- 🤝 I’m looking for help with **algorithms**
 
 - 💬 Ask me about **Go, Node.JS, PHP**
 
