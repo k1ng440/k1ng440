@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/700/0*vKJxdzfG5v5-raoD.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Asaduzzaman Pavel</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
