@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **algorithms**
 
-- 💬 Ask me about **Go, Node.JS, PHP**
+- 💬 Ask me about **Go, Node.JS and PHP**
 
 - 📫 How to reach me **https://linktr.ee/asaduzzaman.pavel**
 
