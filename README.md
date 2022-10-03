@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="http://networkstatic.net/wp-content/uploads/2015/04/docker-penguin-gopher-banner.jpg" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Asaduzzaman Pavel</h1>
-<h3 align="center">A passionate software engineer from Bangladesh</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ng440&label=Profile%20views&color=0e75b6&style=flat" alt="k1ng440" /> </p>
 
